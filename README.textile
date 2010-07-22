@@ -1,0 +1,14 @@
+This is the reference Graffiti Markup Language (GML) file format specification.
+GML is an XML-based file format speficially designed for archiving graffiti tags.
+
+"The new digital standard for tomorrow's vandals."
+
+The spec is available online here:
+http://fffff.at/gml
+
+For more information on GML, visit:
+http://graffitianalysis.com
+http://000000book.com
+
+!http://fffff.at/fuckflickr/data/000000book/gml-file.png!
+
